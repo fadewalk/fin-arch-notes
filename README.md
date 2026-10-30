@@ -1,6 +1,7 @@
-# Private Study Notes
+# Fin-Arch Notes
 
-A password-protected personal study site (client-side AES encryption via StatiCrypt).
+Personal distilled study notes for a distributed financial architecture course,
+reworked into interactive mindmaps, framework diagrams, an SRE failure-mode
+handbook, and spaced-repetition flashcards.
 
-The repository contains only the encrypted HTML file — no plaintext content.
-Access requires the passphrase.
+All content is paraphrased distillation, not verbatim excerpts.
